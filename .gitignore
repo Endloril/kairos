@@ -1,0 +1,15 @@
+os
+sys
+db.sqlite3
+/.idea
+**/*.pyc
+**/*.csv
+**/*.pdf
+**/*.xml
+**/git status
+**/*.log
+htmlcov/
+**/*.sh
+**/*~
+**/.DS_Store
+venv/
