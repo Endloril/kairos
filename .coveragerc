@@ -1,0 +1,17 @@
+[run]
+branch = True
+source = .
+omit =
+    */migrations/*
+    venv/*
+    */tests/*
+    */__init__*
+    */apps.py
+    */wsgi.py
+    */manage.py
+
+
+[report]
+fail_under = 100
+precision = 2
+sort = Cover
